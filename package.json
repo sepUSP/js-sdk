@@ -28,6 +28,9 @@
   "author": "Procore Tech <insights@procore.com> (http://procore.com)",
   "license": "MIT",
   "dependencies": {
+    "@procore/js-sdk": "^4.2.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
     "isomorphic-fetch": "^3.0.0",
     "qs": "^6.11.1"
   },
